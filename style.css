@@ -87,7 +87,7 @@ nav a:hover{
     display: flex;
     position: fixed;
     right: 10px;
-    bottom: 50px;
+    bottom: 30px;
     align-items: center;
     z-index: 19;
 

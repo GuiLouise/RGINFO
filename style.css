@@ -87,7 +87,7 @@ nav a:hover{
     display: flex;
     position: fixed;
     right: 10px;
-    bottom: 30px;
+    bottom: 35px;
     align-items: center;
     z-index: 19;
 
@@ -573,35 +573,7 @@ nav a:hover{
     
 }
 
-footer{
 
-    margin-top: 40px;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    height: 160px;
-    width: 100vw;
-    background: linear-gradient(45deg, #005678, #0083b7);
-}
-
-footer img{
-    width: 110px;
-}
-
-footer p{
-    text-align: center;
-    color: white;
-    width: 400px;
-}
-
-footer a{
-    color: white;
-    transition: .5s;
-}
-
-footer a:hover{
-    color: rgb(208, 208, 208);
-}
 
 @media screen and (max-width:1200px){
 
